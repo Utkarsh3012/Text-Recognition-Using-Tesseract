@@ -8,7 +8,9 @@ The program uses Tesseract OCR and Open cv majorly to extract the text from the 
 The program uses tesseract OCR which is one of the widely used OCR's out there. </p>
  
  <h5>Sample Use Case<h5>
- <img src="">
+  <h6>Image Used</h6>
+ <img src="https://github.com/Utkarsh3012/Text-Recognition-Using-Tesseract/blob/main/sample%20(1).jpg?raw=true">
+  <h6>Predicted Text-</h6>
  <img src="">
  
  <h6>Limitations</h6>
