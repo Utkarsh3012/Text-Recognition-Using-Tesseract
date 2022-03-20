@@ -1,5 +1,5 @@
+from tkinter import N
 import numpy as np
-from PIL import Image
 import pytesseract
 import os
 import cv2
@@ -21,6 +21,7 @@ text = pytesseract.image_to_string(
 
 # saving text in a file output.txt(has to be premade in the folder)
 file = open("OP.txt", "a")
+file.write("The Extracted Text is as follows:")
 file.write(text)
 file.close()
 

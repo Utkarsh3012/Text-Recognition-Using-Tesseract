@@ -9,9 +9,9 @@ The program uses tesseract OCR which is one of the widely used OCR's out there. 
  
  <h5>Sample Use Case<h5>
   <h6>Image Used</h6>
- <img src="https://github.com/Utkarsh3012/Text-Recognition-Using-Tesseract/blob/main/sample%20(1).jpg?raw=true">
+ <img src="sample (1).jpg">
   <h6>Predicted Text-</h6>
- <img src="">
+ <img src="Screenshot .png">
  
  <h6>Limitations</h6>
  The Limitations od the project are as follows:<br>
